@@ -7,4 +7,4 @@ Hearts of Iron IV independent modder from Thailand, cannot and have no interest 
 - Cannot and not interested in coding
 - CURRENT PROJECTS :
     - Thai Localisation submod for The Fire Rises
-    - "In The Realm of Suvarnabhumi" Kingdom of Siam and Republic of Burma content rework submod for Kaiserreich
+    - "In The Realm of Suvarnabhumi" Kingdom of Siam content rework submod for Kaiserreich
