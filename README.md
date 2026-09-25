@@ -3,7 +3,7 @@
 
 
 Hearts of Iron IV independent modder from Thailand, cannot and have no interest in coding.
-- Can Storywriting/History Researching/Documenting
+- Can Storywriting/Content Planning/Documenting
 - Cannot and not interested in coding
 - CURRENT PROJECTS :
     - Thai Localisation submod for The Fire Rises
